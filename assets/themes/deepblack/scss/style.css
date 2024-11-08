@@ -625,7 +625,7 @@ a.gold-btn {
 }
 
 .faq-section .accordion-button::after {
-    background-image: url(../img/icon/chevron.png);
+    background-image: url(../img/icon/arrow3.png);
 }
 
 .accordion-header.isRtl .accordion-button::after {
